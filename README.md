@@ -7,6 +7,7 @@ My starting point for any new app I create. Sort of my own Laravel Spark
 - [ ] Soft deletable users
 - [ ] Team model
 - [ ] User roles and permissions
+- [ ] Log viewer (sentry?)
 
 - [ ] No bootstrap4
 - [ ] Use Tailwindcss
@@ -17,4 +18,4 @@ My starting point for any new app I create. Sort of my own Laravel Spark
 - [ ] Laravel Nova
 - [ ] Laravel Passport
 - [ ] Debugbar
-
+- [ ] Backup
