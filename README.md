@@ -19,3 +19,4 @@ My starting point for any new app I create. Sort of my own Laravel Spark
 - [ ] Laravel Passport
 - [ ] Debugbar
 - [ ] Backup
+- [ ] N+1 detector: https://github.com/beyondcode/laravel-query-detector
